@@ -17,7 +17,7 @@ Web page on aspects of Data Science
             <h1> Data Science Introduction</h1>
         </header>
         <nav>
-            <a class=highlighted href="index.html">Home</a>
+            <a class=highlighted href="index.php">Home</a>
             <a href="theydo.html">What They Do</a>
             <a href="tools.html">Tools</a>
             <a href="programming.html">Languages</a>
