@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <!--
 CST336 Homework Assginment 1
 Web page on aspects of Data Science
@@ -35,10 +35,9 @@ Web page on aspects of Data Science
             <div id="content">
                 <p><strong><mark>What is Data Science?</mark></strong></p>
                 <p>Data Science encompasses many disciplines including computer science, statistics and business/domain knowledge.</p>
-                <p>This site will give you a general concept of Data Science, so that you can explore further throughout the web. 
-                <p>Data Science is a blend of various tools, machine learning principles, 
-                and algorithms.</p>
-                Put together, these aspects will allow you to better understand the datasets of a domain by discovering hidden partterns within the raw data.</p>
+                <p>This site will give you a general concept of Data Science, so that you can explore further throughout the web.</p> 
+                <p>Data Science is a blend of various tools, machine learning principles, and algorithms.</p>
+                <p>Put together, these aspects will allow you to better understand the datasets of a domain by discovering hidden partterns within the raw data.</p>
                 <p>What differentiates a Data Scientist from a traditional Statistician is with the preditictive tools used by Data Scientists. Traditional Statisticians will explain a data set, while a Data
                 Scientist will not only explain, but use tools such as machine learning to determine the occurance of a future event.</p>
             </div>
