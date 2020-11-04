@@ -23,7 +23,7 @@ Web page on aspects of Data Science
             <a href="programming.html">Languages</a>
         </nav>
         
-        <br /><br />
+        <br /><br>
         
         <main>
             

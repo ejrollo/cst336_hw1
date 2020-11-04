@@ -11,6 +11,7 @@ header {
     text-shadow: 2px 2px red;
 }
 
+
 nav a {    /* links within "nav" container */
     padding:15px;
     padding-bottom:4px;
