@@ -14,11 +14,11 @@ Web page on aspects of Data Science
 
     <!-- This is where we place the content of our website -->
         <header>
-            <h1> Data Science Introduction</h1>
+            <h1> What Is <i>Data Science</i>?</h1>
         </header>
         <nav>
             <a class=highlighted href="index.php">Home</a>
-            <a href="theydo.html">What They Do</a>
+            <a href="components.html">Process</a>
             <a href="tools.html">Tools</a>
             <a href="programming.html">Languages</a>
         </nav>
@@ -33,15 +33,14 @@ Web page on aspects of Data Science
             </figure>
             
             <div id="content">
-                <p><strong>What is Data Science?</strong></p>
+                <p><strong><mark>What is Data Science?</mark></strong></p>
                 <p>Data Science encompasses many disciplines including computer science, statistics and business/domain knowledge.</p>
-                <p>This site is aimed to give you a general concept of Data Science so that you can further explore them throughout the web. 
+                <p>This site will give you a general concept of Data Science, so that you can explore further throughout the web. 
                 <p>Data Science is a blend of various tools, machine learning principles, 
                 and algorithms.</p>
                 Put together, these aspects will allow you to better understand the datasets of a domain by discovering hidden partterns within the raw data.</p>
-                <P>What differentiates a Data Scientist from a traditional Statistician is with the preditictive tools used by Data Scientiists. Traditional Statisticians will explain a data set, while a Data
-                Scientist will not only explian, but use tools such as machine learning to determine the occurance of a future event.</P>
-                <p>Let's find out <strong>What They Do</strong>...</p>
+                <p>What differentiates a Data Scientist from a traditional Statistician is with the preditictive tools used by Data Scientists. Traditional Statisticians will explain a data set, while a Data
+                Scientist will not only explain, but use tools such as machine learning to determine the occurance of a future event.</p>
             </div>
             
             
@@ -52,6 +51,9 @@ Web page on aspects of Data Science
         <!-- The footer goes inside the body but not always -->
         <footer>
             <hr>
+                <strong>REFERENCE SITES:</strong> <br />
+                <a href="https://www.kainos.com/my-experience-as-a-data-scientist">https://www.kainos.com/my-experience-as-a-data-scientist</a> <br /> 
+                <a href="https://www.edureka.co/blog/what-is-data-science/#whatisdatascience">https://www.edureka.co/blog/what-is-data-science/#whatisdatascience</a> <br /> <br>
                 CST336 Internet Programming. 2020&copy; Rollo <br />
                 <strong>Disclaimer:</strong> The information in this webpage is fictitious. <br />
                 It is used for academic purposes only.

@@ -7,6 +7,10 @@ header, main, nav, footer {
     text-align: center;
 }
 
+header {
+    text-shadow: 2px 2px red;
+}
+
 nav a {    /* links within "nav" container */
     padding:15px;
     padding-bottom:4px;
@@ -29,7 +33,6 @@ nav a:hover { /* pseudo class */
     padding: 20px;
     margin: 5px;
     font-size: 1.5em;
-    
 }
 
 .highlighted {
@@ -53,24 +56,13 @@ main div {
 footer {
     font-size: 0.8em;
     color:black;
+    opacity: 0.5;
 }
-
-
-ul {
-     width:500px;
-     margin: 0 auto;
-     text-align: left;
- }
- 
-
- iframe {
-     display: block;
-     border-style:none;
-     margin: 0 auto;
- }
  
  h1 {
      font-family: 'Robotico';
      font-size: 4em;
      margin-bottom: 0px;
  }
+ 
+ 
